@@ -1,0 +1,22 @@
+.App{
+  min-height: 100vh;
+}
+
+.container{
+  background:whitesmoke;
+  padding: 1.5rem;
+  margin: 3rem auto;
+  max-width: 35rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.light{
+  background: white;
+  transition: all 1s;
+}
+
+.dark{
+  background: #15202b;
+  color:gray;
+  transition: all 1s;
+}
